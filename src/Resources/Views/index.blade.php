@@ -14,8 +14,7 @@
     <link href={{store_asset('/vendor/store/css/app.88330e2d.css')}} rel=stylesheet>
 </head>
 <body>
-<noscript><strong>We're sorry but app2 doesn't work properly without JavaScript enabled. Please enable it to
-        continue.</strong></noscript>
+<noscript><strong>We're sorry but app2 doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript>
 <div id=app></div>
 <script type=text/javascript src={{store_asset('/vendor/store/js/vendors~app.61cd7121.js')}}></script>
 <script type=text/javascript src={{store_asset('/vendor/store/js/app.da93b738.js')}}></script>
